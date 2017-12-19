@@ -1,0 +1,4 @@
+scrapy
+pillow
+pytesseract
+mysql-python
